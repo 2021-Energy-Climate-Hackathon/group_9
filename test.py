@@ -11,3 +11,7 @@ def func2():
 
 def hi():
     pass
+
+
+def newfunct():
+    pass
